@@ -10,9 +10,9 @@ Application Gestion D'absence pour Android développée à l'aide de Java et Fir
 - Afficher les statistiques sous forme des graphes
 
 ## Utilisation
-1. Firebase comme une base de données externe
-2. iText pour generer des raports sous forme PDF
-3. MPAndroidChart pour generer des graphes
+1. [Firebase](https://firebase.google.com/) comme une base de données externe
+2. [iText](https://github.com/itext/itext7) pour generer des raports sous forme PDF
+3. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) pour generer des graphes
 
 ## Captures d'écran
 ### Ecran Authentification
