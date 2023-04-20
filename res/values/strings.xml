@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GestionAbsences</string>
+    <string name="title">Gestion des Absences</string>
+    <string name="password">Mot de passe</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="login">Se Connecter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="desc">user: admin\npassword: admin23</string>
+    <string name="membres">Membres</string>
+    <string name="presence">Présence</string>
+    <string name="statistique">Statistique</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="nom_group">Nom Group</string>
+    <string name="desc_group">Description Group</string>
+    <string name="nom_membre">Nom Membre</string>
+    <string name="prenom_membre">Prenom Membre</string>
+    <string name="non_group">Nom Group</string>
+    <string name="firebase_ref">https://gestionabsence-zszh-default-rtdb.firebaseio.com/</string>
+    <string name="firebase_storage">gs://gestionabsence-zszh.appspot.com/images</string>
+    <string name="msg">Voulez-vous vous déconnecter</string>
+</resources>
