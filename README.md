@@ -24,8 +24,23 @@ Application Gestion D'absence pour Android développée à l'aide de Java et Fir
 ### Ecran Membres
 ![membres](./screenchots/3.jpg)
 
-![membres](./screenchots/4.jpg)
+### Afficher Membres
+![afficher_membres](./screenchots/4.jpg)
 
-![membres](./screenchots/5.jpg)
+### Creer Membres
+![creer_membres](./screenchots/5.jpg)
 
-![membres](./screenchots/6.jpg)
+### Modifier Membres
+![modifier_membres](./screenchots/6.jpg)
+
+### Ecran Presance
+![presance](./screenchots/7.jpg)
+
+### Presance Membres
+![presance_membres](./screenchots/8.jpg)
+
+### Rapport PDF
+![rapport](./screenchots/9.jpg)
+
+### Statistiqe Graphe
+![statistique](./screenchots/10.jpg)
