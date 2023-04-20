@@ -44,3 +44,9 @@ Application Gestion D'absence pour Android développée à l'aide de Java et Fir
 
 ### Statistiqe Graphe
 ![statistique](./screenchots/10.jpg)
+
+---
+Merci d'avoir consulté mon projet !  
+ariadiki 
+---
+
